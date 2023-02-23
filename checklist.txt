@@ -1,0 +1,15 @@
+1. Installation
+	1. Verify that application can be installed Successfully.
+2. Uninstallation
+	1. Verify that application can be uninstalled successfully.
+3. Network Test Cases 
+	1. Verify the behavior of application when there is Network problem and user is performing operations for data cell.
+	2. Verify that user is able to establish data call when Network is back in action.
+4. Voice Call Handling
+	1. Verify that user can accept Voice call at the time when application is running and can resume back in application from the same point.
+	2. Verify that user can reject the Voice call at the time when application is running and can resume back in application from the same point.
+	3. Verify that user can establish a Voice call in case when application data call is running in background
+5. SMS Handling 
+	1. Verify that user can get SMS alert when application is running
+	2. Verify that user can resume back from the same point after reading the SMS
+6. Unmapped keys
