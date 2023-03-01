@@ -1,8 +1,0 @@
-ID: 456
-Severity: Trivial
-Priority: Medium
-Title: The Sign in button is misaligned in Firefox
-Steps To Reproduce:
-	First: Open the app in any browser
-	Second: Click on Sign in
-Expected Result: The Sign in button is center-aligned with the Username and Password input fields.

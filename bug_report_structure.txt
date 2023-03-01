@@ -1,0 +1,13 @@
+Required fields for the bug report:
+- ID
+- Environment
+- Summary
+- Steps To Reproduce
+- Expected Result
+- Actual Result
+- Severity
+- Priority
+- Reported By
+- Assigned To
+- Reproducibility
+- Preconditions
